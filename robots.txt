@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yufe99.github.io/snippets-dgbhp2/sitemap.xml
